@@ -58,3 +58,6 @@ target/
 
 # Mac things
 .DS*
+
+# Specific Configs
+configs/
