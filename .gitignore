@@ -60,4 +60,4 @@ target/
 .DS*
 
 # Specific Configs
-configs/
+src/duties/configs/*.conf
